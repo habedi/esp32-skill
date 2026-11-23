@@ -1,0 +1,9 @@
+[project]
+name = "esp32-skill"
+version = "0.1.0"
+description = "Python environment for the ESP32 AI skill project"
+
+requires-python = ">=3.10,<4.0"
+dependencies = [
+    "pre-commit>=4.2.0",
+]
