@@ -13,6 +13,7 @@ It helps AI agents identify the board and toolchain, check pin assignments, buil
 Copy the `skills/esp32/` directory to your project's skills directory.
 Use `.claude/skills/` for Claude Code or `.agents/skills/` for Codex.
 For agents that accept file references, you can point them directly to the [`SKILL.md`](skills/esp32/SKILL.md) file.
+
 The skill follows the [Agent Skills format](https://agentskills.io/specification) so it should be compatible with most agents
 harnesses like Claude Code, Codex, Antigravity, etc.
 
