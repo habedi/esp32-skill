@@ -1,7 +1,7 @@
 ## ESP32 Skill
 
 [![License](https://img.shields.io/badge/license-Apache--2.0-507ec6?style=flat&labelColor=282c34&logo=open-source-initiative&logoColor=white)](LICENSE)
-[![Version](https://img.shields.io/badge/version-0.1.0-yellow?style=flat&labelColor=282c34)](skills/esp32/SKILL.md)
+[![Version](https://img.shields.io/badge/version-0.2.0-yellow?style=flat&labelColor=282c34)](skills/esp32/SKILL.md)
 
 The [ESP32 skill](skills/esp32/SKILL.md) is a reusable AI agent skill for developing and debugging firmware on the ESP32 family of microcontrollers.
 It helps AI agents identify the board and toolchain, check pin assignments, build firmware, and diagnose flashing or serial console issues and bugs.
